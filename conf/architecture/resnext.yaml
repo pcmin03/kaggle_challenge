@@ -1,0 +1,4 @@
+defaults:
+  - default.yaml
+
+type : resnext50_32x4d/18

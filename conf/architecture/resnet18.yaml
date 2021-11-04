@@ -1,0 +1,4 @@
+defaults:
+  - default.yaml
+
+type : resnet18/18
